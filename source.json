@@ -1,0 +1,25 @@
+{
+    "name":"PJKT Avatar Swag",
+    "id":"com.PJKT.AvatarSwag",
+    "url":"https://projektcommunity.github.io/avatar-swag-vpm/index.json",
+    "author":{
+        "name":"Projekt: Community",
+        "url":"discord.gg/PJKT"
+    },
+    "description":"VPM Listing of PJKT Avatar Swag",
+    "bannerUrl":"banner.png",
+        "infoLink":{
+        "url":"https://github.com/ProjektCommunity/avatar-swag-vpm/",
+        "text":"View on GitHub"
+    },
+    "githubRepos":[
+    ],
+    "packages":[
+        {
+            "name":"com.PJKT.SwagTwentyFive",
+            "releases":[
+                "https://github.com/ProjektCommunity/PJKT-Avatar-Swag/releases/download/2025.0/Swag.2025.zip",
+            ]
+        }
+    ]
+}
